@@ -4,7 +4,7 @@
   <tr>
     <th><img src=".\readme.resources\start.png" alt="Real Estate on Mars initial page with some images loading and others fail"/></th>
     <th><img src=".\readme.resources\edit.png" alt="Real Estate on Mars details page"/></th>
-    <th><img src=".\readme.resources\end.png" alt="Real Estate on Mars no internet conection logo"/></th>
+    <th><img src=".\readme.resources\nointernet.png" alt="Real Estate on Mars no internet conection logo"/></th>
   </tr>
 </table>
 

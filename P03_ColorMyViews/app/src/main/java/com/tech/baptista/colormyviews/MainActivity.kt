@@ -5,9 +5,11 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import com.tech.baptista.colormyviews.databinding.ActivityMainBinding
+import kotlin.random.Random
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
+    private val colorList = listOf(Color.BLACK, Color.WHITE, Color.GRAY)
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -60,7 +62,7 @@ class MainActivity : AppCompatActivity() {
             }
 
             // Boxes using custom color defined in color.xml for background
-            else -> view.setBackgroundColor(Color.BLACK)
+            else -> view.setBackgroundColor(colorList[(0..2).random()])
         }
     }
 }

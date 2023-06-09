@@ -59,5 +59,4 @@
 * [Get Started with Accessibility](https://support.google.com/accessibility/android/answer/6376570?hl=en)
 * [Make apps more accessible](https://developer.android.com/guide/topics/ui/accessibility/apps)
 * [Content labels](https://support.google.com/accessibility/android/answer/7158690?hl=en)
-* 
 

@@ -33,5 +33,4 @@
 * [Binding Adapters](https://developer.android.com/topic/libraries/data-binding)
 * [Customize Your RecyclerView](https://developer.android.com/develop/ui/views/layout/recyclerview#customizing)
 * [Customize Your GridLayout](https://developer.android.com/reference/android/support/v7/widget/GridLayout)
-* 
  

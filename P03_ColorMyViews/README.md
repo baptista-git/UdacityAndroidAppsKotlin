@@ -1,9 +1,9 @@
 # Layouts - Color My Views Project
 <table style="width:100%">
   <tr>
-    <th><img src=".\readme.resources\start.png" alt="About Me initial page"/></th>
-    <th><img src=".\readme.resources\guess.png" alt="About Me edit nickname"/></th>
-    <th><img src=".\readme.resources\congratulations.png" alt="About Me final result"/></th>
+    <th><img src=".\readme.resources\home.png" alt="Color My Views initial page"/></th>
+    <th><img src=".\readme.resources\colorclick.png" alt="Color My Views click box result"/></th>
+    <th><img src=".\readme.resources\buttonclick.png" alt="Color My Views click buttons"/></th>
   </tr>
 </table>
 

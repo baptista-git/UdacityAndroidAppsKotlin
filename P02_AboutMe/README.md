@@ -3,8 +3,8 @@
 <table style="width:100%">
   <tr>
     <th><img src=".\readme.resources\start.png" alt="About Me initial page"/></th>
-    <th><img src=".\readme.resources\guess.png" alt="About Me edit nickname"/></th>
-    <th><img src=".\readme.resources\congratulations.png" alt="About Me final result"/></th>
+    <th><img src=".\readme.resources\edit.png" alt="About Me edit nickname"/></th>
+    <th><img src=".\readme.resources\end.png" alt="About Me final result"/></th>
   </tr>
 </table>
 
